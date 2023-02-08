@@ -1,0 +1,14 @@
+/* Write your code here. */
+.thumbnail-container {
+  margin-right: 15px;
+}
+
+.btn {
+  background-color: #ffffff;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+}
+.active-btn {
+  opacity: 0.5;
+}
